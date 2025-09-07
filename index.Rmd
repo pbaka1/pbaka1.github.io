@@ -1,0 +1,44 @@
+---
+title: "PAUL BAKA"
+image: "paul.jpeg"
+links:
+  - label: '`r fontawesome::fa("linkedin", fill = "#0A66C2")`'
+    url: "https://linkedin.com/in/paulwbaka"
+  - label: '`r fontawesome::fa("x-twitter", fill = "black")`'
+    url: "https://x.com/baka_worlas"
+  - label: '`r fontawesome::fa("github", fill = "#080808")`'
+    url: "https://github.com/pbaka1"
+  - label: '`r fontawesome::fa("envelope", fill = "#0078D4")`'
+    url: "mailto:paulbaka64@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+**[`r fontawesome::fa("user", fill = "#030303", prefer_type="solid")` BIO]{style="color:  #030303;"}**
+
+I am a medical doctor trained in Ghana and currently pursuing my Master of Public Health (MPH) at Johns Hopkins University. My long-term ambition is to become a pediatric oncologist, dedicated to improving the lives of children battling cancer.
+As part of my MPH journey, I have taken advanced coursework in statistical computing, with a focus on building strong programming and data analysis skills using R. I believe these skills are essential for modern medical research, especially in the age of big data and precision medicine.
+My research interests center on novel genetic sequencing approaches to address pediatric hematologic cancers. I am deeply motivated to explore innovative strategies that can translate cutting-edge science into practical, lifesaving therapies for children.
+
+**[`r fontawesome::fa("star", fill = "#030303", prefer_type="solid")` FUN FACTS]{style="color:  #030303;"}**
+
+1.⚽ Football fanatic – My favorite player of all time is Lionel Messi.
+2.🍳 Cooking therapy – I love cooking whenever I feel stressed.
+3.🗳️ Politics enthusiast – I can talk politics all day, usually plotting ways to make Ghana a better country.
+4.🌍 Travel lover – Iceland is high on my list of dream destinations.
+5.⭐ Three wishes before 2026 – Meet Steph Curry, Lewis Hamilton, and of course, Lionel Messi.
+
+**[`r fontawesome::fa("lightbulb", fill = "#030303", prefer_type="solid")` INSPIRATION]{style="color:  #030303;"}**
+
+I always find myself going back to listen to the commencement  speech from Steve Jobs at standford 2005 graduation.[STEVE JOBS](https://youtu.be/UF8uR6Z6KLc?si=vz81PVVartZXF32M)
+
+**[`r fontawesome::fa("graduation-cap", fill = "#030303", prefer_type="solid")` EDUCATION]{style="color:  #030303;"}**
+
+Master of Public Health\| Exp May 2026 Johns Hopkins Bloomberg School of Public Health \| Baltimore, MD
+
+Bachelor of Medicine and Bachelor of Surgery (MD Equivalent) \| oct, 2022 Kwame Nkrumah University of Science and Technology \| Kumasi, Ghana
+
+Bachelor of Human Biology \|July, 2019 Kwame Nkrumah University Of Science and Technology\|Kumasi , Ghana
+
+
+
